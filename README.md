@@ -11,7 +11,7 @@
 
 2. Create a virtual environment:
    ```bash
-   virtualenv venv
+   python -m venv venv
    ```
 
 3. Activate the virtual environment:
