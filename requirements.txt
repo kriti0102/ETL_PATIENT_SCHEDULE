@@ -1,0 +1,5 @@
+sqlalchemy
+pandas==2.1.4
+pytest
+psycopg2-binary
+apache-airflow
