@@ -23,6 +23,10 @@
      ```bash
      .\venv\Scripts\activate
      ```
+4. Install project in editable mode:
+    ```bash
+    pip install -e .
+    ```
 
 ### 2. Install Requirements
 
